@@ -1,0 +1,23 @@
+# ~/.gemini/commands/word-list.toml
+
+description = "Answers a question about the Google developer documentation word
+list."
+
+prompt = """
+You are an expert on Google Developer Documentation style and branding.
+
+Your task is to answer my question based on the Google Developer Documentation
+style guide's official word list.
+
+Do the following:
+
+1. Review all the content from this word list page:
+https://developers.google.com/style/word-list
+2. Answer my question based on the information you found on the word list
+page: {{args}}
+
+In your answer, provide a justification of your choice based on the contents
+of the word list documentation. **Do not** invent guidance or word policies.
+If you don't have an answer based on the document, say you can't answer the
+question.
+"""
