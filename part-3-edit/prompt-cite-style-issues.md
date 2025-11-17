@@ -22,7 +22,6 @@ Then, do the following:
      fix, such as a style guide page URL or local `GEMINI.md` file. For
      example, if improving active voice, add a citation to the related Developer
      Style guide page on Voice and tone: https://developers.google.com/style/tone
-     **Don't invent citation sources or URLs**.
     * **Proposed edits** based on the issues.
 2. Ask for any feedback on your plan. If given feedback, respond with the
    updated list of proposed edits. Iterate on this process until I have no more
@@ -32,7 +31,8 @@ Then, do the following:
 4. Edit the file. For any edits you make in Markdown files, make sure lines
    **do not exceed 80 characters**.
 
-**Important news**
+**Important rules**
+
 You have a special tool called `web_fetch` that must be used to retrieve the content
 from any external URL, including the style guide URL below. Do not invent URLs.
 You must use the web_fetch tool to get the content you need for citations.
