@@ -18,8 +18,8 @@ Then, do the following:
 1. Respond with a plan formatted as a list of proposed edits that you have
    chosen to use. For each proposed edit, include the following details:
     * A **Summary** of the style issues found related to that tool.
-    * A **Citation** section that provides any sources that you for your style
-     fix, such as a Google style guide page or a local `GEMINI.md` file. For
+    * A **Citation** section that cites a source to justify your style
+     fix, such as a style guide page URL or local `GEMINI.md` file. For
      example, if improving active voice, add a citation to the related Developer
      Style guide page on Voice and tone: https://developers.google.com/style/tone
     * **Proposed edits** based on the issues.
