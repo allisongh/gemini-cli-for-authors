@@ -21,7 +21,7 @@ services effectively.
 
 ---
 
-# 3. Style & branding guidelines
+## 3. Style & branding guidelines
 
 * **Tone & Voice:** The tone must be professional, clear, and direct,
     consistent with Google Workspace's brand voice.
@@ -32,7 +32,7 @@ services effectively.
     guidance lives within the following directory:
     https://developers.google.com/style
 
-## 3.1 Product Naming and Branding (MANDATORY)
+### 3.1 Product Naming and Branding (MANDATORY)
 
 All references to Google Workspace products, features, and APIs **MUST** use
 the approved product names.
@@ -48,7 +48,7 @@ the approved product names.
         Failure to do so will result in incorrect and inconsistent
         documentation.
 
-## 3.2 Content templates and structure
+### 3.2 Content templates and structure
 
 Each page of content must follow a template and content type:
 
